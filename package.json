@@ -1,0 +1,13 @@
+{
+  "name": "mac-notes-exporter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ricosmall/mac-notes-exporter.git",
+  "author": "ricosmall <805163443@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "sql-template-strings": "^2.2.2",
+    "sqlite": "^3.0.3"
+  }
+}
